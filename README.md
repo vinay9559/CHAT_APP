@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AetherChat: Real-Time Chat Application with Secure Authentication
 
 A premium, full-stack, real-time chat application featuring user authentication, public and private messaging, online presence indicators, and live typing status updates. Designed with a custom glassmorphism dark-mode UI.
@@ -114,3 +115,7 @@ npm run dev
 
 Copyright (c) 2026 Vinay Yadav. All rights reserved.
 This project is built and maintained by Vinay Yadav.
+=======
+# CHAT_APP
+ premium, full-stack, real-time chat application featuring user authentication, public and private messaging, online presence indicators, and live typing status updates. Designed with a custom glassmorphism dark-mode UI.
+>>>>>>> 3d9e8e5ec908c80c49d6b21dafd4f351465655f2
